@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Qijuexia's homepage 
+<!-- 没事搭个博客玩玩！--> 
 
-You can use the [editor on GitHub](https://github.com/qijuexia/qijuexia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/qijuexia/qijuexia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
 
-### Markdown
+<!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### 致虚极，守静笃！
+
+我的[博客链接](https://blog.csdn.net/guonai1234/article/details/53055137)
 
 ```markdown
 Syntax highlighted code block
